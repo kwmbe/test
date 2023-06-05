@@ -11,10 +11,10 @@ const ConfigBody = () => {
         <OrganizationDetailsCard />
       </Col>
       <Col span={8}>
-        <AddressCard />
+        <ContactDetailsCard />
       </Col>
       <Col span={8}>
-        <ContactDetailsCard />
+        <AddressCard />
       </Col>
     </Row>
   );
